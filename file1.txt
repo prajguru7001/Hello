@@ -1,0 +1,3 @@
+Hello from Git!
+
+This is to test how Git works
